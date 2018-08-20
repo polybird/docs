@@ -1,4 +1,4 @@
 # Docs
-Documentations of Polybird project
+Documentations of Polybird Exchange Project
 
-Here you would find documentation related our Polybird. 
+Here you would find documentations related our Polybird website. 
