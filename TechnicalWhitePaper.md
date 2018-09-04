@@ -307,7 +307,7 @@ Under this audit, Polybird would present how much assets we hold apart from user
 
 This audit would comprise our detailed profits, fund allocations, tokens issued, capital raised through our IEO platform and several other financial metrics. This would help users, market makers, institutions, and firms to gain a better sense of our financial health and our performance. 
 
-### 4.7 Polybird’s issuance platform – PolyIEO
+### 4.6 Polybird’s issuance platform – PolyIEO
 
 As explained in the general whitepaper, issuance can be conducted on the platform via Initial Exchange Offering (IEO). This would give multiple technical benefits to the issuer, which includes, but not limited to:
 		
