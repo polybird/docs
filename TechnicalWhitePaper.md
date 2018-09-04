@@ -129,18 +129,6 @@ With PolyDer, we strive to solve such problems, especially in derivative digital
 
 PolyDer would be a peer-to-peer derivatives trading platform, that would offer spot and leveraged products. Users would be able to test, learn, and explore our platform using our trading bots and other tools for algorithmic trading. Users are free to choose their own product and market depending on their personal risk-taking capabilities and understanding of the chosen product. In the beginning, PolyDer would use a single digital asset for profits, losses, deposits, withdrawals, and settlements, for reference. We would introduce fiat on getting approval from respective authorities, or tokenized fiat, with more developments. 
 
-### 3.3 Polybird Stablecoins – PolyCoins
-
-In the first series of asset-backed tokens, we introduce PolyCoins, a fiat-backed token series, which would be redeemable for fiat at any time. PolyCoins would serve as a bridge between traditional financial services industry and the new digital asset arena built on blockchain. PolyCoins would represent the most popular fiat-currencies in the form of tokens—PolyUSD, PolyEUR, PolyGBP, PolyJPY, etc. PolyCoins are ‘fiat-collateralized’ or ‘fiat-asset backed’ stablecoins which would have regular audits, complete transparency, and full legal compliance. 
-
-In the realm of crypto, fluctuations are quite significant to ignore and prone to massive volatility. There is often the need for traders to depend on a stable medium to store value and move around in the digital world. Fiat makes it difficult to pursue that, as bank-to-bank transfers are slow and expensive. In order to overcome these problems, a digital asset was created that was backed by traditional fiats—tokenized fiat. 
-
-Tokenized fiat falls under the ‘stablecoin’ concept, which in simple terms can be described as cryptocurrencies with stable prices measured in fiat currencies and economy. Stablecoin has been described as: “a cryptocurrency that is often pegged to another stable asset [but not always], like gold or the U.S. Dollar. It’s a currency that is global… and has low volatility. This allows for practical usage… like paying for things every single day.” Thus, we can expect the following properties in a ‘stablecoin’, which are basic properties of any currency today:
-
-1. Medium of exchange - An intermediary instrument used to facilitate sale, purchase, or trade of goods or services between two or more parties.
-2. Unit of account - A unit of measurement for defining, recording, and comparing value. 
-3. Store of value - Any form of asset or wealth that maintains its value without depreciating over time.
-
 ## 4. Polybird Mechanics
 
 In this section, we would explain the various mechanisms which would be used on Polybird platform, in no particular order. This includes various technical and non-technical details, which would help our users and investors to understand how Polybird would work.
@@ -232,17 +220,17 @@ Cross margin refers to the margin instrument order that utilizes full available 
       Direction:	Buy
 
       Position 2:
-      Contract Type: BTCU18 futures 
-      Position Size: 10 lots (1 lot = 1 BTC, ~71,000 USD)
-      Contract Price:	7,100 USD per BTC
-      Requirements: 10% of position size (~7,100 USD)
-      Direction: Sell
+      Contract Type:     BTCU18 futures 
+      Position Size:     10 lots (1 lot = 1 BTC, ~71,000 USD)
+      Contract Price:	 7,100 USD per BTC
+      Requirements:      10% of position size (~7,100 USD)
+      Direction:         Sell
 
 Since the positions are in opposite directions with the same instrument series, the margin values would be reduced by 5x. Hence, the new margin requirements would be:
 
-      Initial Margin: 	2% of 71,000 USD, ~1,420 USD
-      Available Balance:	2,080 USD
-      Initial Position Price Difference:  100 USD
+      Initial Margin: 	                        2% of 71,000 USD, ~1,420 USD
+      Available Balance:	                2,080 USD
+      Initial Position Price Difference:        100 USD
       Allowed Position Price Difference:	308 USD (2080/10 + 100) 
 
 **2. Isolated Margin**
@@ -318,24 +306,6 @@ Under this audit, Polybird would present how much assets we hold apart from user
 #### 4.5.3 Financial Audit
 
 This audit would comprise our detailed profits, fund allocations, tokens issued, capital raised through our IEO platform and several other financial metrics. This would help users, market makers, institutions, and firms to gain a better sense of our financial health and our performance. 
-
-### 4.6 PolyCoins Protocol Mechanism
-
-#### 4.6.1 Nomenclature 
-
-PolyCoins would represent a series of fiat-collateralized digital assets and the nomenclature is simple and straightforward. In general, PolyCoins would have P or Poly as a prefix. For example:
-
-1. USD – PolyUSD: 1 PUSD = 1 USD
-2. EUR – PolyEUR: 1 PEUR = 1 EUR 
-3. JPY – PolyJPY: 1 PJPY = 1 JPY
-
-#### 4.6.2 Stability and redemption 
-
-Each PolyCoin would be backed by 1 unit of respective fiat currency. PolyCoin would follow the most transparent mechanism and would be ‘fiat-collateralized’ or ‘fiat-backed’. The total supply of PolyCoins would be the exact same amount deposited in fiat by users. Redemption can be made at any time.
-
-#### 4.6.3 Transparency & Audits 
-
-One challenge in the fiat-collateralized stablecoin space is transparency and trust. Unlike other stablecoins, our PolyCoins infrastructure is dedicated to transparency and fostering trust. Everything from minting to balances, deposits, and withdrawals would be presented frequently in our regular audits. We believe PolyCoins are simply blockchain based representation of our users’ funds, hence they have fully right to know where their funds are stored, and if they safe or not. 
 
 ### 4.7 Polybird’s issuance platform – PolyIEO
 
