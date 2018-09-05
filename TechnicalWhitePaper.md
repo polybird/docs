@@ -403,6 +403,6 @@ As explained in the general whitepaper, issuance can be conducted on the platfor
 
 •	LinkedIn:	 https://www.linkedin.com/company/polybird-exchange/
 
-•	Medium:	 	 https://medium.com/@polybird
+•	Medium:	 	 https://medium.com/polybird
 
 •	Email:	 	 support@polybird.io
