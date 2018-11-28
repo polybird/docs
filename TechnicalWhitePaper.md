@@ -393,10 +393,6 @@ As explained in the general whitepaper, issuance can be conducted on the platfor
 
 •	Telegram:  	 https://t.me/Polybird
 
-•	Facebook:  	 https://www.facebook.com/polybirdexchange/
-
 •	Twitter:	 https://twitter.com/PolybirdEx
-
-•	LinkedIn:	 https://www.linkedin.com/company/polybird-exchange/
 
 •	Email:	 	 support@polybird.io
