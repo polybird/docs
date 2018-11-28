@@ -2,8 +2,6 @@
 
 # Technical Whitepaper v1
 
-**July 10, 2018**
-
 Copyright © 2018 Polybird.IO
 
 This whitepaper is a working document that is subjected to review and changes.
@@ -399,10 +397,6 @@ As explained in the general whitepaper, issuance can be conducted on the platfor
 
 •	Twitter:	 https://twitter.com/PolybirdEx
 
-•	Reddit:	 	 https://new.reddit.com/r/Polybird/
-
 •	LinkedIn:	 https://www.linkedin.com/company/polybird-exchange/
-
-•	Medium:	 	 https://medium.com/polybird
 
 •	Email:	 	 support@polybird.io
