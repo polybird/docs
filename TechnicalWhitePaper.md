@@ -117,15 +117,15 @@ Built keeping professional traders in mind, Polybird’s user interface would fe
 
 **3. Professional or Institutional User Interface**
 
-This would be geared towards institutional traders and market makers. It would have pre-built trading bots allowing retail and institutional traders to test out their strategies and perform high frequency trading as per their requirements. In addition to the above, Polybird would hold poll and ask for users’ feedback about improvements that can be made in all the interfaces every quarter. Polybird platform would integrate of MetaTrader 4, TradingView, and others for more trading options. 
+This would be geared towards institutional traders and market makers. It would have pre-built trading bots allowing retail and institutional traders to test out their strategies and perform high frequency trading as per their requirements. In addition to the above, Polybird would hold poll and ask for users’ feedback about improvements that can be made in all the interfaces every quarter. Polybird platform would integrate MetaTrader 4, TradingView, and others for more trading options. 
 
-### 3.2 Polybird Derivatives – PolyDer
+### 3.2 Polybird Derivatives – PolyMEX
 
 Majority of the digital asset exchanges are not made with sound financial knowledge as most of the advanced trading options are missing out there. This leads users to use multiple exchanges, which leads to more hassle and higher costs. Furthermore, very few exchanges provide derivative products, using low liquidity as a reason. These exchanges have low liquidity even in spot trading and let users to deal with the frustration of long order processing to even no order execution. 
 
-With PolyDer, we strive to solve such problems, especially in derivative digital asset markets. PolyDer would offer leveraged products like perpetual swaps, futures, options, and several other products in various asset classes, where needed. This would allow our users to hedge their risks to manage portfolio in all types of markets.
+With PolyMEX, we strive to solve such problems, especially in derivative digital asset markets. PolyMEX would offer leveraged products like perpetual swaps, futures, options, and several other products in various asset classes, where needed. This would allow our users to hedge their risks to manage portfolio in all types of markets.
 
-PolyDer would be a peer-to-peer derivatives trading platform, that would offer spot and leveraged products. Users would be able to test, learn, and explore our platform using our trading bots and other tools for algorithmic trading. Users are free to choose their own product and market depending on their personal risk-taking capabilities and understanding of the chosen product. In the beginning, PolyDer would use a single digital asset for profits, losses, deposits, withdrawals, and settlements, for reference. We would introduce fiat on getting approval from respective authorities, or tokenized fiat, with more developments. 
+PolyMEX would be a peer-to-peer derivatives trading platform, that would offer spot and leveraged products. Users would be able to test, learn, and explore our platform using our trading bots and other tools for algorithmic trading. Users are free to choose their own product and market depending on their personal risk-taking capabilities and understanding of the chosen product. In the beginning, PolyMEX would use a single digital asset for profits, losses, deposits, withdrawals, and settlements, for reference. We would introduce fiat on getting approval from respective authorities, or tokenized fiat, with more developments. 
 
 ## 4. Polybird Mechanics
 
@@ -133,23 +133,23 @@ In this section, we would explain the various mechanisms which would be used on 
 
 ### 4.1 Software Architecture Blueprint
 
-Designed for high-performance and robust operation, PolyMatch—Polybird’s matching engine, our users would experience negligible lags or delays in accessing the dashboard as well as placing or canceling orders. Executions would be high-speed, as PolyMatch would be built from scratch using powerful languages: Java, Go, and C++. PolyMatch would be a low-latency, high throughput, and high-availability matching engine to process trades up to multimillion tps.
+Designed for high-performance and robust operation, PolyMatch — Polybird’s matching engine, our users would experience negligible lags or delays in accessing the dashboard as well as placing or canceling orders. Executions would be high-speed, as PolyMatch would be built from scratch using powerful languages: Java, Go, and C++. PolyMatch would be a low-latency, high throughput, and high-availability matching engine to process trades up to multimillion tps.
 
 <img src="https://i.imgur.com/9EzyR64.jpg" />
 
 The entire software architecture would be hosted using high-availability infrastructure with geo-replication, load-balanced, and powerful backup mechanisms. PolyMatch would have auto-healing features, highly scalable design, and failover mechanisms.
 
-### 4.2 PolyDer Mechanisms
+### 4.2 PolyMEX Mechanisms
 
-In this section, we would discuss some of the mechanisms used in PolyDer platform to offer peer-to-peer trading with spot and leveraged products like perpetual swaps, futures and several others.
+In this section, we would discuss some of the mechanisms used in PolyMEX platform to offer peer-to-peer trading with spot and leveraged products like perpetual swaps, futures and several others.
 
 #### 4.2.1 Contract Mechanisms
 
-1. **Spot contracts** refer to trading at spot prices, that is, immediate buying or selling at current market prices. This also means immediate settlement of the terms of contract. Since spot contracts are not leveraged products, it allows users to trade at low cost, expose themselves to high volumes, and safeguard their capital. PolyDer spot trading would be accessible to all Polybird exchange users by default.
+1. **Spot contracts** refer to trading at spot prices, that is, immediate buying or selling at current market prices. This also means immediate settlement of the terms of contract. Since spot contracts are not leveraged products, it allows users to trade at low cost, expose themselves to high volumes, and safeguard their capital. PolyMEX spot trading would be accessible to all Polybird exchange users by default.
 
-2. **Futures contract** is a derivative product and is an agreement to buy or sell a financial instrument at a predetermined price at a predetermined time in future. They are either physically settled or settled in cash. In futures, traders don’t have to use 100% of their collateral as margin, since PolyDer would provide leverage up to 50x. PolyDer would perform all calculations in a certain stablecoin and with various options for trading, users can explore the derivatives market.
+2. **Futures contract** is a derivative product and is an agreement to buy or sell a financial instrument at a predetermined price at a predetermined time in future. They are either physically settled or settled in cash. In futures, traders don’t have to use 100% of their collateral as margin, since PolyMEX would provide leverage up to 50x. PolyMEX would perform all calculations in a certain stablecoin and with various options for trading, users can explore the derivatives market.
 
-3. **Spread contract** is a derivative product and consists of sale of futures contracts as well as for offsetting them. This would allow traders to hedge their positions for better risk management. Over course of time, we would add many assets. We hope through PolyDer, we would create more liquid market for Polybird ecosystem as well as for the digital asset world.
+3. **Spread contract** is a derivative product and consists of sale of futures contracts as well as for offsetting them. This would allow traders to hedge their positions for better risk management. Over course of time, we would add many assets. We hope through PolyMEX, we would create more liquid market for Polybird ecosystem as well as for the digital asset world.
 
 #### 4.2.2 Order Mechanisms
 
@@ -202,7 +202,7 @@ Margin refers to the amount required to execute a leveraged position, i.e., borr
 1.	Initial margin refers to the minimum initial amount required to enter the position or execute a leveraged trade order
 2.	Maintenance margin refers to the minimum amount required to sustain any position from getting liquidated
 
-PolyDer would use two mechanisms for margining:
+PolyMEX would use two mechanisms for margining:
 
 **1. Cross Margin**
 
@@ -239,7 +239,7 @@ An isolated margin is a margin instrument with margin restricted to a certain am
 
 #### 4.3.1 Deposit Mechanism
 
-Polybird deposits would be open at all times unless otherwise stated and would be instantly credited to the account. Polybird would have a hybrid model with combination of hot wallet, cold wallet, and vault. In general, users would be assigned a unique hot wallet address and for PolyDer, a unique cold wallet address. Deposits would be moved from hot wallet to cold wallet and then vault. Since Polybird would house a military-grade secure wallet service PolyWallet, users will have an option to use PolyWallet address as default address to ensure maximum security.
+Polybird deposits would be open at all times unless otherwise stated and would be instantly credited to the account. Polybird would have a hybrid model with combination of hot wallet, cold wallet, and vault. In general, users would be assigned a unique hot wallet address and for PolyMEX, a unique cold wallet address. Deposits would be moved from hot wallet to cold wallet and then vault. Since Polybird would house a military-grade secure wallet service PolyWallet, users will have an option to use PolyWallet address as default address to ensure maximum security.
 
 #### 4.3.2 Withdrawal Mechanism
 
@@ -255,9 +255,9 @@ Due to multiple past incidents in the markets that resulted in loss of millions 
 
 **2. Withdrawal Limits**
 
-**2.1 PolyDer**
+**2.1 PolyMEX**
 
-PolyDer would have withdrawal limits assigned to their users as following:
+PolyMEX would have withdrawal limits assigned to their users as following:
 
 Tier 1: Unverified Account: Withdrawal up to 0.5 BTC daily
 
