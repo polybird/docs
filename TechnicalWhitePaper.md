@@ -70,6 +70,7 @@ Polybird will support cross-trading platform for various devices as following an
 5. Windows PC Client
 6. MacOS Client
 7. REST API Client
+8. FIX Support 
 
 #### 3.1.4 Military-grade secure wallet or PolyWallet
 
@@ -393,6 +394,6 @@ As explained in the general whitepaper, issuance can be conducted on the platfor
 
 •	Telegram:  	 https://t.me/Polybird
 
-•	Twitter:	 https://twitter.com/PolybirdEx
+•	Twitter:	 https://twitter.com/Polybird
 
 •	Email:	 	 support@polybird.io
