@@ -7,59 +7,29 @@ Copyright © 2018 Polybird.IO
 This whitepaper is a working document that is subjected to review and changes.
 
 ## 1. Abstract
-With the emergence of blockchain-based digital assets, the need to exchange these assets among counterparties has increased significantly. As thousands of such digital assets and cryptocurrencies are being introduced, which include tokenized securities, the need for a robust and diverse exchange platform has magnified. Indeed, this is just a beginning and we are yet to reach the real potential [1][2][3], which would pave the way for an exchange platform that facilitates trades with robust performance and high-grade security. The digital economy is maturing every day and blockchain technology is constantly changing the way we do business [4][5]. The financial services sector is set for disruption due to advancements in blockchain, digital assets, and cryptocurrencies paradigm. While some potential real use-cases of blockchain may be far away in future, the digital modern economy is already here. The current industry needs a powerful bridge between traditional and emerging asset classes. 
+With the emergence of blockchain-based digital assets, the need to exchange these assets among counterparties has increased significantly. As thousands of such digital assets and cryptocurrencies are being introduced, which include tokenized securities, the need for a robust and diverse exchange platform has magnified. Indeed, this is just a beginning and we are yet to reach the real potential , which would pave the way for an exchange platform that facilitates trades with robust performance and high-grade security. The digital economy is maturing every day and blockchain technology is constantly changing the way we do business. The financial services sector is set for disruption due to advancements in blockchain, digital assets, and cryptocurrencies paradigm. While some potential real use-cases of blockchain may be far away in future, the digital modern economy is already here. The current industry needs a powerful bridge between traditional and emerging asset classes. 
 
-At the time of writing this, more than 200 digital assets and cryptocurrency exchanges already exist around the world [6][7]. Generally, there are three types of exchanges: crypto-to-crypto, fiat-to-crypto, and hybrid—which is a combination of previous two exchange types [8]. Whereby, exchanges for tokenized securities are in the development or launch phase, and it is too early to comment on their technical capabilities. 
+At the time of writing this, more than 200 digital assets and cryptocurrency exchanges already exist around the world. Generally, there are three types of exchanges: crypto-to-crypto, fiat-to-crypto, and hybrid—which is a combination of previous two exchange types [8]. Whereby, exchanges for tokenized securities are in the development or launch phase, and it is too early to comment on their technical capabilities. 
 
 While each of the three types of exchanges tries to serve its users well with the best of its abilities, there are limitations and weaknesses in each. The crypto-to-crypto exchange category is faster and low cost in nature, offering many crypto-pairs and allowing users to trade at ease. However, during times of market volatility and rush, existing users who face difficulty converting cryptocurrencies to fiat in a timely fashion, aka cashing out, will see their portfolio values drop significantly and those who have fiat would find it difficult to take advantage of cheap cryptocurrencies as a buying opportunity, aka cashing in. On the other hand, the crypto-to-fiat exchange category typically offers only a limited number of cryptocurrencies that users can buy, sell, or trade. Overall, an average user has to jump through various exchanges at a given time, to execute a full-round of transaction, just to buy or sell a certain digital asset. 
 
 Other major issues with these exchanges are a lack of proper security procedures and processes in place to safeguard users’ assets and a lack of systematic and machine intelligence systems to prevent the price manipulation of illiquid cryptocurrencies in order to safeguard users’ portfolio values. Hence, this ecosystem needs an exchange platform that is institutional-grade, can facilitate ultra-speed processing of transactions, provides a military-grade custodianship and security, delivers transparent and fair listing of digital assets, affords minimal trading and exchange listing fees, has better AI system for market manipulation checks, eases entry and exit, as well as offers user-friendly user interface. 
 
-## 2. Problems 
-Problems in current exchange platforms are:
-
-### 2.1 Security Issues
-Most exchanges have already suffered from hacks and subsequent losses [9] [10]. Centralized exchanges continue to be honeypots for hackers to attack, as their servers have custody of billions of dollars of users’ funds [11]. Exchange developers can also make honest and accidental errors. DDoS attacks are being frequent nowadays which often leads to frequent downtimes [12] [13]. Weak and unorganized server architecture makes the platform vulnerable and leaves the users’ funds prone to attacks.
-
-### 2.2 Liquidity Problems
-Liquidity is still a problem with many exchanges [14] [15]. Some exchanges have dense orderbook, but lack trading pairs. While other exchanges have shallow orderbook, but high number of trading pairs. One way or the other, exchanges face a major issue dealing with liquidity. This leads to low trading volume in newer exchanges, inspite of better features. The orderbook being shallow generates high slippages when trading, hence leading to losses to traders. Generating liquidity by onboarding institutional investors, trading firms, market makers, miners, and experienced professional traders, requires a team with deep industrial connections and understanding of the markets.
-
-### 2.3 Poor Customer Service
-Most exchanges have a poor customer service [16]. Users have to wait for days to get a reply due to a high backlog of support tickets and inefficient support team. Users on the platform are geographically diverse. Therefore, it is important to understand their minds to run an exchange platform. A little delay in solving problems could lead to tremendous amount of dissatisfaction or even major losses.
-
-### 2.4 No Globalization and Multilingual Support
-Users are global; so should be the platform that facilitates the entry of traders. Most exchanges provide a bare minimum number of language support to their users, which limits the entry of users as they are not able to understand the platform. 
-
-### 2.5 High Fees
-Most exchanges still charge heavy amounts and different types of fee [17]. It’s expensive to convert one crypto to another. On top of that, users have to use multiple exchanges to execute a transaction. So, for instance, if John wants to buy EOS, he has to first buy BTC and then buy EOS, and in this process, pay commission twice. There lacks a one-stop solution exchange that meets the end-to-end needs. 
-
-### 2.6 Slow KYC and AML Process
-The usual KYC/AML check process is slow due to a heavy backlog and the support staff is unavailable to communicate with the waiting users. This friction in the onboarding process leads to dissatisfaction among users. Traditional method of verification requires significant amount of time and following a long list of procedures, which results in long queue of unverified users. Especially when it comes to fiat, which means more regulatory checks, users have waiting time of weeks. Most of the time, these checks are also not done properly [18].
-
-### 2.7 Listing Issues
-According to various media reports, existing exchanges charge outrageous amount of listing fees [19], in the name of maintaining liquidity and infrastructure costs. This leads to increased barriers to entry and many blockchain startups back off from being listed and usually end up in illiquid exchanges, which are difficult to enter and trade due to shallow orderbooks. 
-
-### 2.8 Poor Airdrop Support
-Most exchanges in existence do not support numerous airdrops, which leads to dissatisfaction among users. Airdrops are becoming a new way of building communities that support and use the products of these early-stage blockchain companies. By assembling a good community of users, airdrops can become new way of funding and liquidity, among many other benefits. Often, these airdrops or ‘free-money’ is a gateway for newbies to enter into the crypto trading world. 
-
-### 2.9 Low Trading Pairs
-Most exchanges provide a limited number of digital assets and cryptocurrencies on their platforms, which leads to market fragmentation. Arbitrage opportunities often develop due to such market fragmentation and causes high slippage due to less liquidity. Options for users are limited and they have to hop from exchange to exchange to meet their needs. Also, high number of transactions leads to higher trading fees, which are subject to high taxes in countries like the United States. 
-
-## 3. Introducing: Polybird Platform
+## 2. Introducing: Polybird Platform
 
 We at Polybird believe that meeting the end-to-end needs of an exchange userbase is of utmost importance to create a sustainable and efficient ecosystem. Hence, we are introducing a third generation exchange platform, Polybird. Polybird is made of Poly which symbolizes the multiple features of our ecosystem and Bird which symbolizes the freedom and ease of access to enter the blockchain world through our platform. With your help, we will make Polybird the largest and most efficient ‘World Exchange,’ which will house major asset classes such as cryptoassets, stocks, bonds, currencies, commodities, etc. 
 
-### 3.1 Polybird Ecosystem Features
+### 2.1 Polybird Ecosystem Features
 
-#### 3.1.1 Powerful Matching Engine
+#### 2.1.1 Powerful Matching Engine
 
 We are building Polybird to serve the global audience. Hence, it is important to have a high-performance future-ready trade engine. At general server configuration level, our trade engine can process 500,000 tps. So if we use 10 servers in load-balance configuration, we can have 5,000,000 tps trade engine.
 
-#### 3.1.2 Strong Multilingual Support
+#### 2.1.2 Strong Multilingual Support
 
 Polybird would support four languages in the initial phase: English, Korean, Japanese, and Chinese. This applies to all interfaces like desktop, mobile web interface, mobile applications, and desktop and mac clients. We will be adding more languages later on such as Dutch, French, German, Taiwanese, Vietnamese, Filipino, etc.
 
-#### 3.1.3 Multiple Device Support
+#### 2.1.3 Multiple Device Support
 
 Polybird will support cross-trading platform for various devices as following and would add more platforms as per user demands:
 
@@ -72,7 +42,7 @@ Polybird will support cross-trading platform for various devices as following an
 7. REST API Client
 8. FIX Support 
 
-#### 3.1.4 Military-grade secure wallet or PolyWallet
+#### 2.1.4 Military-grade secure wallet or PolyWallet
 
 At Polybird, security of funds is our utmost priority and the custody management is divided into 3 parts: 
 
@@ -82,15 +52,15 @@ At Polybird, security of funds is our utmost priority and the custody management
 
 **3. Military grade secure wallet or PolyWallet**: Polybird will be one of the first to house a military-grade secured custodianship. This wallet will be created with support from third parties. This wallet will account for storage of rest 60% of the funds.
 
-#### 3.1.5 Liquidity Pool - PolyPool
+#### 2.1.5 Liquidity Pool - PolyPool
 
 Liquidity is king! Polybird will take measures to ensure a deep orderbook and create a liquidity pool of institutional investors, professional traders, market makers, and so on, called PolyPool. This pool will be responsible for heavily filled orderbooks and reduced arbitrage opportunities and higher efficiency. 
 
-#### 3.1.6 Advanced AI & Algorithmic Engine
+#### 2.1.6 Advanced AI & Algorithmic Engine
 
 This engine will be responsible for keeping checks on any market manipulations to ensure protection of market participants at large. Polybird will deploy AI-based price manipulation prevention systems for the market to protect the users. 
 
-#### 3.1.7 Instant Exchange
+#### 2.1.7 Instant Exchange
 
 Polybird would be first of its kind to introduce an instant exchange within its platform to facilitate direct conversion of one crypto to another without visiting related trading pairs. This will help new users to get their desired crypto instantly.
 
@@ -104,7 +74,7 @@ Currently only Changelly provides instantly conversion of crypto and fiat but th
 
 Most importantly, this mechanism can also be replicated in various asset classes from commodities to real estate, as the users pay less fees and are able to transact more. 
 
-#### 3.1.8 Intuitive User Interface
+#### 2.1.8 Intuitive User Interface
 
 Since we aim to deliver ease of access and usability to novice, professional and institutional traders alike, Polybird would have 3 different types of user interface:
 
@@ -120,7 +90,7 @@ Built keeping professional traders in mind, Polybird’s user interface would fe
 
 This would be geared towards institutional traders and market makers. It would have pre-built trading bots allowing retail and institutional traders to test out their strategies and perform high frequency trading as per their requirements. In addition to the above, Polybird would hold poll and ask for users’ feedback about improvements that can be made in all the interfaces every quarter. Polybird platform would integrate MetaTrader 4, TradingView, and others for more trading options. 
 
-### 3.2 Polybird Derivatives – PolyMEX
+### 2.2 Polybird Derivatives – PolyMEX
 
 Majority of the digital asset exchanges are not made with sound financial knowledge as most of the advanced trading options are missing out there. This leads users to use multiple exchanges, which leads to more hassle and higher costs. Furthermore, very few exchanges provide derivative products, using low liquidity as a reason. These exchanges have low liquidity even in spot trading and let users to deal with the frustration of long order processing to even no order execution. 
 
@@ -128,11 +98,11 @@ With PolyMEX, we strive to solve such problems, especially in derivative digital
 
 PolyMEX would be a peer-to-peer derivatives trading platform, that would offer spot and leveraged products. Users would be able to test, learn, and explore our platform using our trading bots and other tools for algorithmic trading. Users are free to choose their own product and market depending on their personal risk-taking capabilities and understanding of the chosen product. In the beginning, PolyMEX would use a single digital asset for profits, losses, deposits, withdrawals, and settlements, for reference. We would introduce fiat on getting approval from respective authorities, or tokenized fiat, with more developments. 
 
-## 4. Polybird Mechanics
+## 3. Polybird Mechanics
 
 In this section, we would explain the various mechanisms which would be used on Polybird platform, in no particular order. This includes various technical and non-technical details, which would help our users and investors to understand how Polybird would work.
 
-### 4.1 Software Architecture Blueprint
+### 3.1 Software Architecture Blueprint
 
 Designed for high-performance and robust operation, PolyMatch — Polybird’s matching engine, our users would experience negligible lags or delays in accessing the dashboard as well as placing or canceling orders. Executions would be high-speed, as PolyMatch would be built from scratch using powerful languages: Java, Go, and C++. PolyMatch would be a low-latency, high throughput, and high-availability matching engine to process trades up to multimillion tps.
 
@@ -140,11 +110,11 @@ Designed for high-performance and robust operation, PolyMatch — Polybird’s m
 
 The entire software architecture would be hosted using high-availability infrastructure with geo-replication, load-balanced, and powerful backup mechanisms. PolyMatch would have auto-healing features, highly scalable design, and failover mechanisms.
 
-### 4.2 PolyMEX Mechanisms
+### 3.2 PolyMEX Mechanisms
 
 In this section, we would discuss some of the mechanisms used in PolyMEX platform to offer peer-to-peer trading with spot and leveraged products like perpetual swaps, futures and several others.
 
-#### 4.2.1 Contract Mechanisms
+#### 3.2.1 Contract Mechanisms
 
 1. **Spot contracts** refer to trading at spot prices, that is, immediate buying or selling at current market prices. This also means immediate settlement of the terms of contract. Since spot contracts are not leveraged products, it allows users to trade at low cost, expose themselves to high volumes, and safeguard their capital. PolyMEX spot trading would be accessible to all Polybird exchange users by default.
 
@@ -152,7 +122,7 @@ In this section, we would discuss some of the mechanisms used in PolyMEX platfor
 
 3. **Spread contract** is a derivative product and consists of sale of futures contracts as well as for offsetting them. This would allow traders to hedge their positions for better risk management. Over course of time, we would add many assets. We hope through PolyMEX, we would create more liquid market for Polybird ecosystem as well as for the digital asset world.
 
-#### 4.2.2 Order Mechanisms
+#### 3.2.2 Order Mechanisms
 
 **1. Market Order**
 
@@ -196,7 +166,7 @@ A trailing stop order is a special type of stop order. In a trailing stop order,
     Trail Value: 168
     Direction: Buy
 
-#### 4.2.3 Margin Mechanisms
+#### 3.2.3 Margin Mechanisms
 
 Margin refers to the amount required to execute a leveraged position, i.e., borrowing to execute any position higher than the existing balance in a given account at order execution time. There are two components of a margin trade: 
 
@@ -236,13 +206,13 @@ Since the positions are in opposite directions with the same instrument series, 
 
 An isolated margin is a margin instrument with margin restricted to a certain amount of funds. If the margin falls below the maintenance level, the position gets liquidated. In this case, trader’s liability is limited to the initial margin utilized. In case of liquidation, any balance a trader may have will not be used to add margin position. For example, in case of 25x leverage, position will be liquidated after 4% move against the position. Similarly, in case of 10x leverage, 10% move can liquidate the position. While using the isolated margin feature, traders can adjust their leverage on fly with leverage sliders.
  
-### 4.3 Transaction Mechanism
+### 3.3 Transaction Mechanism
 
-#### 4.3.1 Deposit Mechanism
+#### 3.3.1 Deposit Mechanism
 
 Polybird deposits would be open at all times unless otherwise stated and would be instantly credited to the account. Polybird would have a hybrid model with combination of hot wallet, cold wallet, and vault. In general, users would be assigned a unique hot wallet address and for PolyMEX, a unique cold wallet address. Deposits would be moved from hot wallet to cold wallet and then vault. Since Polybird would house a military-grade secure wallet service PolyWallet, users will have an option to use PolyWallet address as default address to ensure maximum security.
 
-#### 4.3.2 Withdrawal Mechanism
+#### 3.3.2 Withdrawal Mechanism
 
 Due to multiple past incidents in the markets that resulted in loss of millions of dollars, Polybird aims to protect users’ funds against unauthorized withdrawals by implementing strong withdrawal mechanism.
 
@@ -270,27 +240,27 @@ Tier 3: Corporate Account: No daily limits
 
 Since Polybird Exchange would list all blockchain-based tokenized assets, withdrawal limits would be divided into two types: individual account and corporate account. Individual account will have a 100K USD limit, whereas there would be no limit on corporate accounts, each trading day.
 
-### 4.4 KYC & AML Verification Mechanism
+### 3.4 KYC & AML Verification Mechanism
 
 Since Polybird would be host to many game-changing blockchain-based financial products, it is important to perform proper Know Your Customer and Anti-Money Laundering verifications before onboarding users onto the platform. Our mechanism would help us onboard global users within a few minutes. It’s clear how current exchanges delay KYC & AML checks for weeks and sometimes even months. This is still a major issue at top exchanges and serves as a big cause of dissatisfaction early-on, especially during times of high-volatility when the demand is high and there are more user registrations. Hence, in order to simplify the process, we would perform automatic KYC & AML checks for our new users so they can access all the features of the platform. Following are the types of mechanism we will be using:
 
-#### 4.4.1 Artificial Intelligence Mechanism
+#### 3.4.1 Artificial Intelligence Mechanism
 
 This mechanism would deploy artificial intelligence to perform KYC & AML checks for onboarding new users. Examples of service providers include Netverify by Jumio, Shuftipro, Trulioo, etc. 
 
-#### 4.4.2 Blockchain Based Mechanism
+#### 3.4.2 Blockchain Based Mechanism
 
 Since blockchain based application services are under development, we plan to use these projects in future. Examples of service providers include Civic, Traceto, etc.
 
-### 4.5 Audit Mechanism
+### 3.5 Audit Mechanism
 
 Polybird is dedicated to being a transparent ecosystem to gain the trust and confidence of our users. Among other measures, we would be releasing quarterly and yearly audits. Following is the audit information we would be providing:
 	
-#### 4.5.1 KYC and AML Audit
+#### 3.5.1 KYC and AML Audit
 
 We would be performing KYC and AML audits of our userbase, which would include total number of users; verified and unverified, new registered users, token issuers, any money-laundering or fake KYC attempts and cases, top referrals, etc., and present these in our audit.
 
-#### 4.5.2 Proof of Solvency Audit
+#### 3.5.2 Proof of Solvency Audit
 
 To ensure any event like Mt. Gox never occurs with Polybird, we would be preforming Proof of Solvency to ensure we have kept users’ fund safe just as they have trusted us to. There are two types of audits under this:
 		
@@ -302,11 +272,11 @@ Under this audit, Polybird would provide proof of the existence of funds. To ens
 
 Under this audit, Polybird would present how much assets we hold apart from users’ funds. This audit would be supported by our financial audit where we would present our profits earned.
 		
-#### 4.5.3 Financial Audit
+#### 3.5.3 Financial Audit
 
 This audit would comprise our detailed profits, fund allocations, tokens issued, capital raised through our IEO platform and several other financial metrics. This would help users, market makers, institutions, and firms to gain a better sense of our financial health and our performance. 
 
-### 4.6 Polybird’s issuance platform – PolyIEO
+### 3.6 Polybird’s issuance platform – PolyIEO
 
 As explained in the general whitepaper, issuance can be conducted on the platform via Initial Exchange Offering (IEO). This would give multiple technical benefits to the issuer, which includes, but not limited to:
 		
@@ -326,9 +296,9 @@ As explained in the general whitepaper, issuance can be conducted on the platfor
 
 8.	**User interface**: The user interface would be very intuitive. Users would have to select an offering like any other token in an exchange, select a funding method, and simply buy. PolyIEO dashboard would be similar to our exchange dashboard, such that users can participate in an offering as seamlessly as buying a crypto from any exchange. 
 
-## 5. Appendix
+## 4. Appendix
 
-### 5.1 Terminology
+### 4.1 Terminology
 
 •	Airdrop – A procedure of distributing tokens for free in return of certain specified activity like registration, holding tokens, following on social media etc.
 
@@ -364,31 +334,7 @@ As explained in the general whitepaper, issuance can be conducted on the platfor
 
 •	System Architecture – A conceptual model that defines the high-level structures, behavior and views of a system.
 
-
-### 5.2 References
-
-1.	McKinsey & Company (2016, May). How blockchain can change the world. Retrieved April 21, 2018 from https://www.mckinsey.com/industries/high-tech/our-insights/how-blockchains-could-change-the-world
-2.	Marlin, Daniel (2017, December 22). What Is Blockchain And How It Will Change the World? Retrieved May 1, 2018 from https://www.forbes.com/sites/danielmarlin/2017/12/22/what-is-blockchain-and-how-will-it-change-the-world/
-3.	Ulieru, Mihaela (2016, June 23). Blockchain: what it is, how it really can change the world. Retrieved May 7, 2018 from https://www.weforum.org/agenda/2016/06/the-blockchain/
-4.	Bhan, Kanav (2018, April 3). Digital economy and the Impact of Blockchain. Retrieved May 6, 2018 from https://blog.lalaworld.io/digital-economy-impact-blockchain/
-5.	Catalini, Christian (2017, December 8). How blockchain technology will impact the digital economy. Retrieved May 10, 2018, from http://mitsloanexperts.mit.edu/how-blockchain-technology-will-impact-the-digital-economy-christian-catalini/
-6.	24 Hour Volume Rankings (All Exchanges), CoinMarketCap. Retrieved May 1, 2018, from https://coinmarketcap.com/exchanges/volume/24-hour/all/
-7.	All Digital Currency Exchanges Volume Ranking, Coinhills. Retrieved May 1, 2018 from https://www.coinhills.com/market/exchange/
-8.	Boanda, Lorena (2018, April 27). Different types of crypto exchanges. Retrieved May 7, 2018 from https://coindoo.com/different-types-of-crypto-exchanges/
-9.	Neuron (2018, March). List of cryptocurrency exchange hacks. Retrieved May 8, 2018 from https://rados.io/list-of-documented-exchange-hacks/
-10.	Quoine (2018, April 26). Timeline of significant crypto exchange hacks. Retrieved May 10, 2018 from https://medium.com/@QUOINE/timeline-of-significant-crypto-exchange-hacks-621f4993b625
-11.	Crytoware (2018, July). Most Notable and Costly Cryptocurrency Hacks and Scams. Retrieved May 11, 2018 from https://www.cryptoaware.org/resources/notable-cryptocurrency-hacks/
-12.	Cloudflare. Why are cryptocurrency sites being targeted by DDoS attacks? What is a cryptocurrency? Retrieved May 11, 2018 from https://www.cloudflare.com/learning/ddos/cryptocurrency-ddos-attacks/
-13.	Althauser, Joshua (2017, December 12), CoinTelegraph. Report Shows Cryptocurrency Exchanges Most Common DDoS Victims Worldwide. Retrieved May 11, 2018 from https://cointelegraph.com/news/report-shows-cryptocurrency-exchanges-most-common-ddos-victims-worldwide
-14.	Bitcoinchaser (2017, June 23), Steemit. The Myth of Cryptocurrency Liquidity. Retrieved May 11, 2018 from https://steemit.com/cryptocurrency/@bitcoinchaser/the-myth-of-cryptocurrency-liquidity
-15.	Encrybit (2018, June 26), Medium. Liquidity Problems. Retrieved July 27, 2018 from https://medium.com/@enbofficial/liquidity-problems-one-of-the-biggest-in-current-cryptocurrency-exchanges-b5aeaa4446a6
-16.	Binance customer reviews (2018, July), Cryptocompare. Retrieved July 27, 2018 from https://www.cryptocompare.com/exchanges/binance/reviews
-17.	Roberts, Jeff John (2018, June 20). Robinhood CEO Takes Aim at Bitcoin Exchanges’ High Fees. Retrieved July 27, 2018 from http://fortune.com/2018/06/20/robinhood-bitcoin-cryptocurrency-trading/
-18.	Tassev, Lubomir (2018, June 5). Research: Majority of EU, US Exchanges and Wallets Fail to KYC Users. Retrieved June 18, 2018 from https://news.bitcoin.com/research-majority-of-eu-us-exchanges-and-wallets-fail-to-kyc-users/
-19.	Russo, Camila (2018, April 3). Crypto Exchange Charge Millions to List Tokens, Report Says. Retrieved June 12, 2018 from https://www.bloomberg.com/news/articles/2018-04-03/crypto-exchanges-charge-millions-to-list-tokens-autonomous-says
-20.	Cointelegraph (2017). Where to Issue ICO Tokens: Platform Review. Retrieved June 18, 2018 from https://cointelegraph.com/ico-101/where-to-issue-ico-tokens-platforms-review
-
-### 5.3 Further Information
+### 4.3 Further Information
 
 •	Website: 	 https://polybird.io
 
